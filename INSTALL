@@ -11,6 +11,7 @@ changes to the code.
 The PETSc developers provide access to all
 versions of PETSc; see:
 http://www-unix.mcs.anl.gov/petsc/petsc-as/download/index.html
+https://github.com/petsc/petsc/commit/d20c6ccc866eaf891890b90eaadd8a4e58dbf609
 
 Install PETSc (version 3.0.0) with the option '-with-clanguage=cxx'.  This will
 build the PETSc library using a 'C++' compiler. After downloading
